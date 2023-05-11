@@ -1,0 +1,34 @@
+{
+  "name": "apdex",
+  "version": "1.0.0",
+  "description": "Application performance index (Apdex) score calculator",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "",
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parthiganesh/apdex.git"
+  },
+  "keywords": [
+    "apdex",
+    "calculator",
+    "score",
+    "user",
+    "satisfaction",
+    "experience",
+    "monitoring"
+  ],
+  "author": "Parthiban parthinow@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parthiganesh/apdex/issues"
+  },
+  "homepage": "https://github.com/parthiganesh/apdex#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
