@@ -2,6 +2,9 @@
 
 Application performance index (Apdex) calculator measures user satisfaction based on response time.
 
+[![npm downloads](https://img.shields.io/npm/dt/apdex.svg)](https://www.npmjs.com/package/apdex)
+[![GitHub issues](https://img.shields.io/github/issues/parthiganesh/apdex)](https://github.com/parthiganesh/apdex/issues)
+
 ## Installation
 
 You can install the package using npm:
